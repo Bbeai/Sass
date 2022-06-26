@@ -1,0 +1,24 @@
+body {
+  background: #1b3d82;
+  font-family: Arial, Helvetica, sans-serif; }
+
+.article {
+  background: #e9f1f7;
+  width: 500px;
+  padding: 20px; }
+  .article .title {
+    color: #f9a03f; }
+  .article .author {
+    color: #4d5061; }
+  .article p a {
+    color: #f9a03f; }
+  .article div {
+    text-align: center; }
+    .article div a {
+      text-decoration: none;
+      font-size: 25px;
+      color: #f9a03f; }
+      .article div a:hover {
+        text-decoration: underline; }
+
+/*# sourceMappingURL=anidaciones.css.map */
