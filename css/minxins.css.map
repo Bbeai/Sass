@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,IAAK;EACH,UAAU,EAOG,OAAO;;AALtB,QAAS;EACP,UAAU,EAIY,IAAI",
+"sources": ["mixin.scss"],
+"names": [],
+"file": "minxins.css"
+}

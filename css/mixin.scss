@@ -1,2 +1,10 @@
 @mixin colores($fondo, $articulo) {
+  body {
+    background: $fondo;
+  }
+  .article {
+    background: $articulo;
+  }
 } //recibe colores y los procesa
+
+@include colores(#0f6e53, #fff);
